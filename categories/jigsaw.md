@@ -1,3 +1,5 @@
+# Jigsaw
+
 ## Description
 
 > **jigsaw principle** refers to a methodological procedure whereby subgroups of learners in a class are asked to read or listen to different information concerning a particular topic or situation. The full picture is then pieced together, like a jigsaw, when the groups combine in discussion to complete the task. (Johnson & Johnson, 1998, p. 178)

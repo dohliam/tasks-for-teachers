@@ -1,3 +1,5 @@
+# Dictogloss
+
 ## Description
 
 In a **dictogloss** activity, the teacher reads a short text about a topic while students take notes individually. Then the class is divided into groups who work together to create a summary of the text based on their notes and their understanding of the material.
