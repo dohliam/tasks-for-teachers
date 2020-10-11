@@ -14,10 +14,10 @@ Tasks are a fundamental component of communicative language teaching, and yet te
 
 ### Reasons why teachers _don't_ share tasks
 
-There are several objections to sharing tasks:
+There are several often-raised objections to sharing tasks:
 
-1. _Context-specific_: Tasks are usually designed for specific learning outcomes in specific circumstances and that they would not be effective if copied or used by other instructors in different contexts.
-2. _Everyone knows how to make their own_: Another point often raised is that the lack of resources (particularly freely-licensed electronic databases) containing lists of tasks is irrelevant because educators learn about the principles of task-design during their mandatory teacher education programs, and any teacher should thereafter be capable of designing tasks appropriate for their individual needs and context.
+1. _Context-specific_: Tasks are usually designed for specific learning outcomes in specific circumstances and they would not be effective if copied or used by other instructors in different contexts.
+2. _Everyone knows how to make their own_: The lack of resources (particularly freely-licensed electronic databases) containing lists of tasks is irrelevant because educators learn about the principles of task-design during their mandatory teacher education programs, and any teacher should thereafter be capable of designing tasks appropriate for their individual needs and context.
 3. _There are tons of resources already_: Since there are already so many books available on task design, and also collections of activities for teachers, all anyone needs to do is go to the library or buy a book to find the information they need. It's all in there, somewhere.
 4. _Sharing is bad for teachers_: Educators face increasing pressure to submit to regimes of scrutiny, reporting, evaluation, and assessment, and to compete with other educators for access to precious resources, seniority, and job security. The activities teachers are able to provide for their students are one important way that teachers can stand out from the crowd, and sharing them will result in fewer job opportunities and loss of advantages earned from having designed unique and outstanding tasks.
 5. _Sharing is bad for innovation_: Increased competition should result in increased innovation as educators strive to design the best and most unique tasks and activities for their students, making their classes and teaching methods stand out from others, and creating motivation for other teachers to try harder.
