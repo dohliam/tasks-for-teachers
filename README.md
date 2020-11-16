@@ -131,8 +131,25 @@ If a __freely-licensed__ image is available or can be created, it may be conside
 
 ## References
 
-* Ellis, R. (2003). _Task based language learning and teaching_. New York: Oxford University Press.
+Selected books on Task-Based Language Teaching:
+
+* Ahmadian, M. J., & García Mayo, M. del P. (2017). Recent perspectives on task-based language learning and teaching. In _Recent Perspectives on Task-Based Language Learning and Teaching_. De Gruyter Mouton. http://www.degruyter.com/view/title/514571
+* Barkley, E. F., Cross, K. P., & Major, C. H. (2005). _Collaborative learning techniques: A handbook for college faculty_. Jossey-Bass.
+* Crookes, G., & Gass, S. M. (Eds.). (1993). _Tasks and language learning: Integrating theory and practice_. Multilingual Matters.
+* Ellis, R. (2003). _Task-based language learning and teaching_. Oxford University Press.
+* Ellis, R. (2018). _Reflections on task-based language teaching_. Channel View Publications.
+* Johnson, K. (2003). _Designing language teaching tasks_. Palgrave Macmillan UK. https://doi.org/10.1057/9780230596672
 * Larsen-Freeman, D. (2000). Techniques and Principles in Language Teaching. Oxford: Oxford University Press.
+* Nunan, D. (1989). _Designing tasks for the communicative classroom_. Cambridge University Press.
+* Nunan, D., & Nunan, D. (2004). _Task-based language teaching_. Cambridge University Press.
+* Parrott, M. (1993). _Tasks for language teachers: A resource book for training and development_. Cambridge University Press.
+* Pozzi, F., & Persico, D. (Eds.). (2010). _Techniques for fostering collaboration in online learning communities: Theoretical and practical perspectives_. Information Science Reference.
+* Shrum, J. L., & Glisan, E. W. (2000). _Teacher's handbook: Contextualized language instruction_ (2nd ed). Heinle & Heinle.
+* Thomas, M., & Reinders, H. (Eds.). (2010). _Task-based language learning and teaching with technology_. Continuum.
+* van den Branden, K. (Ed.). (2006). _Task-based language education: From theory to practice_. Cambridge University Press. https://doi.org/10.1017/CBO9780511667282
+* Willis, D., & Willis, J. R. (2011). _Doing task-based teaching_ (5th ed.). Oxford University Press.
+
+See the [Bibliography](bibliography.md) for a more complete list of books and articles on using tasks in teaching.
 
 ## License
 
